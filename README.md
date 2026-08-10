@@ -1,5 +1,6 @@
+![ToastMasters LOGO](https://district31.org/wp-content/uploads/Wordmark-Website-Lockup-PNG.png)
 
-readme_content = """# 🎙️ Verbal Assassins Toastmasters Club
+🎙️ Verbal Assassins Toastmasters Club
 
 **Club #1916935** | *Area 54, Division E, District 46*  
 **Website:** [Toastmasters International](https://www.toastmasters.org)
@@ -12,6 +13,15 @@ readme_content = """# 🎙️ Verbal Assassins Toastmasters Club
 * **Time:** 12:00 PM – 1:00 PM
 * **Theme:** *Too Hot For A Hot Tub*
 * **Schedule:** Every 2nd & 4th Tuesday (12:00 PM – 1:00 PM)
+
+---
+
+## 💻 Zoom Meeting Access
+
+* **Link:** [Join Zoom Meeting](https://us06web.zoom.us/j/82759308696?pwd=typPI4hhzW0ztbb20AnsByMzrYLEho.1)
+* **Meeting ID:** `827 5930 8696`
+* **Passcode:** `290720`
+* **More Information at bottom of page**
 
 ---
 
@@ -62,8 +72,54 @@ readme_content = """# 🎙️ Verbal Assassins Toastmasters Club
 
 > *"The mission of a Toastmasters club is to provide a mutually supportive and positive learning environment in which every individual member has the opportunity to develop oral communication and leadership skills, which fosters confidence and personal growth."*
 """
+> 
+## 💻 Zoom Meeting Access
 
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
+* **Link:** [Join Zoom Meeting](https://us06web.zoom.us/j/82759308696?pwd=typPI4hhzW0ztbb20AnsByMzrYLEho.1)
+* **Meeting ID:** `827 5930 8696`
+* **Passcode:** `290720`
 
-print("README.md successfully created.")
+### 📱 One Tap Mobile
+* **US (New York):** `+16468769923,,82162779197#,*244043#`
+* **US (Chicago):** `+13126266799,,82162779197#,*244043#`
+
+### ☎️ Dial by Your Location
+* `+1 646 876 9923` US (New York)
+* `+1 312 626 6799` US (Chicago)
+* `+1 301 715 8592` US (Washington DC)
+* `+1 346 248 7799` US (Houston)
+* `+1 669 900 6833` US (San Jose)
+* `+1 253 215 8782` US (Tacoma)
+
+* **Meeting ID:** `821 6277 9197`
+* **Passcode:** `244043`
+* **Find Local Number:** [Zoom International Dial-in Numbers](https://us02web.zoom.us/u/kbn9NmpPIT)
+"""
+
+
+# Toastmasters Roster
+
+## Executive Officers
+
+* **Felisha Howard-Lee**, DTM -- Club President
+* **Nancy Vargas**, PM2 -- Club VP Education
+* **Kameelah Howard**, EH2 -- Club VP Membership
+* **Beverly Howard**, DTM -- Club VP PR
+* **Evelyn Dresler**, PM5 -- Club Secretary
+* **Charnette M. Lewis**, DTM -- Club Treasurer
+* **Marie Johnson-Ladson**, PM1 -- Club Sergeant at Arms
+
+---
+
+## Members
+
+* **Adrianne M. Hampton**, EC3 -- *Member*
+* **Cecelia A. Wallace**, DTM -- *Member*
+* **Glenice W. Bond**, DTM -- *Member*
+* **Indra Gandy**, PM3 -- *Member*
+* **Marvin Butler**, DTM -- *Member*
+* **Muriel Shabazz**, DTM -- *Member*
+* **Namuna Khadka**, PM1 -- *Member*
+* **Omar Fattal** -- *Member*
+* **Scheherazade Mack**, EH5 -- *Member*
+* **Tyrone James**, DL5 -- *Member*
