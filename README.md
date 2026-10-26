@@ -123,3 +123,9 @@
 * **Omar Fattal** -- *Member*
 * **Scheherazade Mack**, EH5 -- *Member*
 * **Tyrone James**, DL5 -- *Member*
+
+---
+
+##Honorary Members
+
+* **Jack Kaminsky**
