@@ -126,6 +126,6 @@
 
 ---
 
-##Honorary Members
+## Honorary Members
 
 * **Jack Kaminsky**
